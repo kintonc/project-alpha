@@ -8,5 +8,4 @@
 /.idea
 
 # Ignore csv, pickle
-*.csv
 *.pickle
